@@ -1,81 +1,62 @@
+<!-- Logo oben, klein -->
+<p align="left">
+  <img src="Logo-Square.png" alt="Sonos Audio Manager Logo" width="110"/>
+</p>
+
 # Sonos Audio Manager
 
-![Logo](Logo-Square.png)
-
-Willkommen beim **Sonos Audio Manager**!
-
-Eine leistungsfähige, eigenständige Desktop-App zum Steuern, Gruppieren und Automatisieren von Sonos-Lautsprechern – mit moderner Oberfläche, Zeitplänen und Spotify-Integration.
+**Sonos Audio Manager (SAM)** ist eine moderne Desktop-App zur Verwaltung von Sonos-Lautsprechern.  
+Sie bietet übersichtliche Steuerung, Planung und viele Features rund um Multiroom-Audio – alles im minimalistischen Look.
 
 ---
 
-## 🟡 **Features**
+## Features
 
-- **Intuitive Steuerung** deiner Sonos-Lautsprecher (Wiedergabe, Pause, Lautstärke…)
-- **Planen & Automatisieren:**  
-  Zeitpläne für Aktionen auf beliebigen Lautsprechern
-- **Lautsprecher-Gruppen:**  
-  Räume auswählen, kombinieren, flexibel steuern
-- **Spotify-Integration**  
-  Titelanzeige, Status, direkte Kontrolle
-- **Modernes UI**  
-  Sauberes, anpassbares WPF-Frontend  
-- **Python-Sonos-Bridge**  
-  Schnelle Kommunikation per lokaler API
+- **Lautsprecher-Übersicht**: Sieh alle Sonos-Geräte, ihre Gruppen und Status auf einen Blick.
+- **Zeitgesteuerte Aktionen**: Lege beliebige Aktionen (Play, Pause, Stop, Lautstärke, Streams) mit flexiblen Zeitplänen fest.
+- **Ansagen & Testtöne**: Sende Sounds oder Ansagen an einen oder mehrere Speaker.
+- **Gruppenverwaltung**: Koordiniere Räume, steuere mehrere Lautsprecher gemeinsam.
+- **Spotify-Integration**: Anzeige von Trackinfos für laufende Wiedergabe.
+- **Schönes UI**: Klar, responsiv, helles Theme.
 
 ---
 
-## 🖼️ **Screenshots**
+## Screenshots
 
-### Übersicht
-![Main Page](MainPage.png)
-
----
-
-### Übersicht (mit Lautsprecher)
-![Main Page With Speaker](MainPageWithSpeaker.png)
-
----
-
-### Übersicht (zweites Layout)
-![Main Page 2](MainPage2.png)
+<p align="center">
+  <img src="MainPage.png" alt="Main Page" width="400"/>
+  <img src="MainPageWithSpeaker.png" alt="Main Page With Speaker" width="400"/><br>
+  <img src="CreateSchedules.png" alt="Schedule Creation" width="400"/>
+  <img src="CreateCalls.png" alt="Create Call" width="400"/><br>
+  <img src="SearchSpeaker.png" alt="Speaker Search" width="400"/>
+  <img src="Sonos-Audio-Manager_OPkftCgZ5m.png" alt="SAM Branding" width="400"/>
+</p>
 
 ---
 
-### Zeitpläne und Lautsprecher-Auswahl
-![Schedules](CreateSchedules.png)
+## Branding
+
+<p align="left">
+  <img src="Logo-Square.png" alt="Sonos Audio Manager Logo" width="64"/>
+</p>
 
 ---
 
-### Ansagen erstellen
-![Create Calls](CreateCalls.png)
+## Technisches
+
+- **Sprache:** Python (Backend), C# (Frontend)
+- **API:** Nutzt die [SoCo](https://github.com/SoCo/SoCo)-Bibliothek zur Sonos-Steuerung.
+- **Keine Cloud:** Läuft komplett lokal, kein externer Dienst.
+- **Kein Download:** Dies ist eine reine Portfoliopräsentation.
 
 ---
 
-### Suche / Lautsprecher hinzufügen
-![Search Speaker](SearchSpeaker.png)
+## Hinweis
+
+Der Quellcode ist **nicht öffentlich** verfügbar.  
+Diese Seite dient nur zur Präsentation des Projekts.
 
 ---
 
-## 🔒 **Hinweis zum Code**
+**Screenshots und Logo © Rettek / Sonos Audio Manager**
 
-Der **Sourcecode bleibt privat**.  
-Dieses Repo dient ausschließlich als Portfolio/Demo für Bewerbungen, Referenzen, etc.
-
----
-
-## 👨‍💻 **Tech Stack**
-
-- **Frontend:** .NET (WPF, C#)
-- **Backend:** Python Sonos-API Bridge (lokal)
-- **Design:** Modern, responsive, dark/light
-
----
-
-## 📬 Kontakt
-
-Bei Interesse, Feedback oder für eine Demo:  
-**[Deine E-Mail oder LinkedIn/Website hier eintragen]**
-
----
-
-© 2024 [Dein Name]
