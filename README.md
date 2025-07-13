@@ -44,7 +44,7 @@ Sie bietet übersichtliche Steuerung, Planung und viele Features rund um Multiro
 
 ## Technisches
 
-- **Sprache:** Python (Backend), C# (Frontend)
+- **Sprache:** Python (Backend), C# (Frontend, Backend)
 - **API:** Nutzt die [SoCo](https://github.com/SoCo/SoCo)-Bibliothek zur Sonos-Steuerung.
 - **Keine Cloud:** Läuft komplett lokal, kein externer Dienst.
 - **Kein Download:** Dies ist eine reine Portfoliopräsentation.
