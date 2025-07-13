@@ -29,7 +29,6 @@ Sie bietet übersichtliche Steuerung, Planung und viele Features rund um Multiro
   <img src="CreateSchedules.png" alt="Schedule Creation" width="400"/>
   <img src="CreateCalls.png" alt="Create Call" width="400"/><br>
   <img src="SearchSpeaker.png" alt="Speaker Search" width="400"/>
-  <img src="Sonos-Audio-Manager_OPkftCgZ5m.png" alt="SAM Branding" width="400"/>
 </p>
 
 ---
