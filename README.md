@@ -2,7 +2,8 @@
 
 ![Logo](Logo-Square.png)
 
-Willkommen beim **Sonos Audio Manager**!  
+Willkommen beim **Sonos Audio Manager**!
+
 Eine leistungsfähige, eigenständige Desktop-App zum Steuern, Gruppieren und Automatisieren von Sonos-Lautsprechern – mit moderner Oberfläche, Zeitplänen und Spotify-Integration.
 
 ---
@@ -26,32 +27,32 @@ Eine leistungsfähige, eigenständige Desktop-App zum Steuern, Gruppieren und Au
 ## 🖼️ **Screenshots**
 
 ### Übersicht
-![Main UI](Sonos-Audio-Manager_duYLNby2MM.png)
+![Main Page](MainPage.png)
+
+---
+
+### Übersicht (mit Lautsprecher)
+![Main Page With Speaker](MainPageWithSpeaker.png)
+
+---
+
+### Übersicht (zweites Layout)
+![Main Page 2](MainPage2.png)
 
 ---
 
 ### Zeitpläne und Lautsprecher-Auswahl
-![Schedules](Sonos-Audio-Manager_GfzM8sUsxf.png)
+![Schedules](CreateSchedules.png)
 
 ---
 
-### Volle Kontrolle
-![Control Panel](Sonos-Audio-Manager_gHC1a3PFHK.png)
+### Ansagen erstellen
+![Create Calls](CreateCalls.png)
 
 ---
 
-### Lautsprecher hinzufügen & verwalten
-![Speaker Add](Sonos-Audio-Manager_jmjR5o389J.png)
-
----
-
-### Neue Ansage erstellen
-![Create Announcement](Sonos-Audio-Manager_nN1aqVlgGn.png)
-
----
-
-### Splashscreen / Branding
-![Splash](Sonos-Audio-Manager_OPkftCgZ5m.png)
+### Suche / Lautsprecher hinzufügen
+![Search Speaker](SearchSpeaker.png)
 
 ---
 
